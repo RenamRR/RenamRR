@@ -1,6 +1,6 @@
 ### Hello World!
 
-Hey there!  I'm RenamRR, a Computer Science student with a burning passion for all things tech. My main focus lies in the exciting world of web and software development, where I love diving into building things that come to life on screens.
+Hey there! I'm RenamRR, a Computer Science student with a strong interest in everything tech-related. My main focus lies in the exciting world of web and software development, where I love diving into building things that come to life on screens.
 
 ## My Toolbox:
 

@@ -33,3 +33,6 @@
   <img align="center" alt="RR-PONTO" height="30" width="30" src="https://cdn.discordapp.com/emojis/1079773702218072074.webp?size=80&quality=lossless">
   <img align="center" alt="RR-ORACLE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
 </div>
+
+![My Skills](https://skillicons.dev/icons?i=js,mysql,nodejs,discord,py,java,css,html,unity)     
+![Snake animation](https://github.com/RenamRR/RenamRR/blob/output/github-contribution-grid-snake.svg)

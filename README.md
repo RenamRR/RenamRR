@@ -35,4 +35,4 @@
 </div>
 
 ![My Skills](https://skillicons.dev/icons?i=js,mysql,nodejs,discord,py,java,css,html,unity)     
-![Snake animation](https://github.com/RenamRR/RenamRR/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/RenamRR/RenamRR/blob/output/github-contribution-grid-snake.gif)

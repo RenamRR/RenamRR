@@ -10,7 +10,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenamRR&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
   
-###  Languages 
+## Languages 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="RR-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,5 +34,5 @@
   <img align="center" alt="RR-ORACLE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
 </div>
 
-![My Skills](https://skillicons.dev/icons?i=js,mysql,nodejs,discord,py,java,css,html,unity)     
-![snake gif](https://github.com/RenamRR/RenamRR/blob/output/github-contribution-grid-snake.gif)
+## Snake  
+![Snake animation](https://github.com/RenamRR/RenamRR/blob/output/github-contribution-grid-snake.svg)

@@ -2,7 +2,7 @@
 
 Hey there! I'm RenamRR, a Computer Science student with a strong interest in everything tech-related. My main focus lies in the exciting world of web and software development, where I love diving into building things that come to life on screens.
 
-## My Toolbox:
+### My Toolbox:
 
 * Programming Languages: I'm fluent in JavaScript, a master of MySQL queries, and I've even dabbled in Discord.js for bot creation.
 * Web Development: HTML, CSS, and JavaScript are my go-to tools for crafting engaging and interactive web experiences.
@@ -11,7 +11,7 @@ Hey there! I'm RenamRR, a Computer Science student with a strong interest in eve
 * Agile Methods: I believe in working smart and adapting quickly, so agile methodologies are my jam.
 * Design Principles: Creating user-friendly and visually appealing interfaces is important to me, so I keep design principles close at heart.
   
-## Beyond the Code:
+### Beyond the Code:
 
 When I'm not tinkering with code, you can find me:
 

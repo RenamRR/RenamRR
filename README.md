@@ -17,7 +17,7 @@
   <img align="center" alt="RR-PONTO" height="30" width="30" src="https://cdn.discordapp.com/emojis/1079773702218072074.webp?size=80&quality=lossless">
   <img align="center" alt="RR-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="RR-PONTO" height="30" width="30" src="https://cdn.discordapp.com/emojis/1079773702218072074.webp?size=80&quality=lossless">
-  <img align="center" alt="RR-DCJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg">
+  <img align="center" alt="RR-DCJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg">
   <img align="center" alt="RR-PONTO" height="30" width="30" src="https://cdn.discordapp.com/emojis/1079773702218072074.webp?size=80&quality=lossless">
   <img align="center" alt="RR-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="RR-PONTO" height="30" width="30" src="https://cdn.discordapp.com/emojis/1079773702218072074.webp?size=80&quality=lossless">
@@ -30,4 +30,6 @@
   <img align="center" alt="RR-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="RR-PONTO" height="30" width="30" src="https://cdn.discordapp.com/emojis/1079773702218072074.webp?size=80&quality=lossless">
   <img align="center" alt="RR-UNITY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="RR-PONTO" height="30" width="30" src="https://cdn.discordapp.com/emojis/1079773702218072074.webp?size=80&quality=lossless">
+  <img align="center" alt="RR-ORACLE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
 </div>

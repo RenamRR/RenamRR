@@ -24,13 +24,6 @@ I believe technology has the power to unlock amazing possibilities and make a po
 
 
 ## Miscellaneous
-<div>
-  <a href="https://github.com/RenamRR">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=RenamRR&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenamRR&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
-</div>
 
 ### I'm listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22fmh6duca4m4rkmo7dpff3wi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
@@ -59,6 +52,11 @@ I believe technology has the power to unlock amazing possibilities and make a po
   <img align="center" alt="RR-ORACLE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
 </div>
 
-##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RenamRR&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+## GitHub Stats
+<div>
+  <a href="https://github.com/RenamRR">
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=RenamRR&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em"
+       src="https://streak-stats.demolab.com?user=RenamRR&theme=dark&hide_border=true" />
+</div>

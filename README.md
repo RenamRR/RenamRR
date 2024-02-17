@@ -9,7 +9,10 @@
   <img height="180em" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenamRR&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
-  
+
+### I'm listening to:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22fmh6duca4m4rkmo7dpff3wi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## Languages 
   
 <div style="display: inline_block"><br>
@@ -34,5 +37,6 @@
   <img align="center" alt="RR-ORACLE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
 </div>
 
-## Snake  
-![Snake animation](https://github.com/RenamRR/RenamRR/blob/output/github-contribution-grid-snake.svg)
+##
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RenamRR&theme=dark&hide_border=true)](https://git.io/streak-stats)
+

@@ -55,8 +55,6 @@ I believe technology has the power to unlock amazing possibilities and make a po
 ## GitHub Stats
 <div>
   <a href="https://github.com/RenamRR">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=RenamRR&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em"
-       src="https://streak-stats.demolab.com?user=RenamRR&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RenamRR&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" width="700"/>
+  <img src="https://streak-stats.demolab.com?user=RenamRR&theme=dark&hide_border=true" width="700"/>
 </div>

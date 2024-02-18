@@ -28,7 +28,7 @@ I believe technology has the power to unlock amazing possibilities and make a po
 ### I'm listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22fmh6duca4m4rkmo7dpff3wi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-## Languages 
+### Languages 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="RR-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

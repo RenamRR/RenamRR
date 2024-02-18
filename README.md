@@ -1,4 +1,4 @@
-### Hello World!
+## Hello World!
 
 Hey there! I'm RenamRR, a Computer Science student with a strong interest in everything tech-related. My main focus lies in the exciting world of web and software development, where I love diving into building things that come to life on screens.
 
@@ -52,7 +52,7 @@ I believe technology has the power to unlock amazing possibilities and make a po
   <img align="center" alt="RR-ORACLE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
 </div>
 
-## GitHub Stats
+### GitHub Stats
 <div>
   <a href="https://github.com/RenamRR">
   <img src="https://github-readme-stats.vercel.app/api?username=RenamRR&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" width="700"/>

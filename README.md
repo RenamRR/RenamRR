@@ -39,6 +39,8 @@ I believe technology has the power to unlock amazing possibilities and make a po
   <img align="center" alt="RR-PONTO" height="30" width="30" src="https://cdn.discordapp.com/emojis/1079773702218072074.webp?size=80&quality=lossless">
   <img align="center" alt="RR-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="RR-PONTO" height="30" width="30" src="https://cdn.discordapp.com/emojis/1079773702218072074.webp?size=80&quality=lossless">
+  <img align="center" alt="RR-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="RR-PONTO" height="30" width="30" src="https://cdn.discordapp.com/emojis/1079773702218072074.webp?size=80&quality=lossless">
   <img align="center" alt="RR-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="RR-PONTO" height="30" width="30" src="https://cdn.discordapp.com/emojis/1079773702218072074.webp?size=80&quality=lossless">
   <img align="center" alt="RR-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
